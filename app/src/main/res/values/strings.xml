@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="primeiro_numero">Primeiro número</string>
+    <string name="segundo_numero">Segundo número</string>
+    <string name="somar">+</string>
+    <string name="subtrair">−</string>
+    <string name="multiplicar">x</string>
+    <string name="dividir">÷</string>
+    <string name="resultado">Resultado: %1$s</string>
+</resources>

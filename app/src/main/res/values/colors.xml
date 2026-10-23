@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="roxo">#6750A4</color>
+    <color name="roxo_escuro">#4F378B</color>
+    <color name="laranja">#F57C00</color>
+    <color name="verde_agua">#008577</color>
+    <color name="fundo">#FFF7FF</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="preto">#000000</color>
+    <color name="texto">#1D1B20</color>
+    <color name="texto_secundario">#625B71</color>
+    <color name="cinzento_claro">#E7E0EC</color>
+</resources>
